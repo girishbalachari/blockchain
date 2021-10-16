@@ -2,6 +2,7 @@
 bitcoin blockchain
 
 Please note:
+
 file structure.  Please create src folder and copy blockchain.js and test.js file into and then run npm it will work.
 After coping need to install dependencies such as express, nodemon, sha1, uuid libraries/framworks
 
