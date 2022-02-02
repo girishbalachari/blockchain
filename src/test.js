@@ -80,3 +80,5 @@ const bc1 = {
 };
 
 console.log("VALID: ", bitcoin.chainIsValid(bc1.chain));
+
+
